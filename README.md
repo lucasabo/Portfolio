@@ -1,5 +1,11 @@
 # Projetos:
 
+## Certificação - Data Wrangling
+
+Descrição resumida: Análise do dataframe Wine Reviews para a obtenção do certificado em Data Wrangling & Data Cleaning da DNC.Group
+
+Bibliotecas utilizadas: Numpy, Pandas, Pyplot, Seaborn, Sklearn, Nltk.
+
 ## EDA - Walmart
 
 Descrição resumida: Análise Exploratória de Dados de vendas de 45 lojas Walmart.
