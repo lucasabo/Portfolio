@@ -2,7 +2,7 @@
 
 ## Certificação - Data Wrangling
 
-Descrição resumida: Análise do dataframe Wine Reviews para a obtenção do certificado em Data Wrangling & Data Cleaning da DNC.Group
+Descrição resumida: Análise do dataset Wine Reviews para a obtenção do certificado em Data Wrangling & Data Cleaning da DNC.Group
 
 Bibliotecas utilizadas: Numpy, Pandas, Pyplot, Seaborn, Sklearn, Nltk.
 
