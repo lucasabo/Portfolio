@@ -1,5 +1,14 @@
 # Projetos:
 
+## Modelagem de risco de crédito - BayerBank
+Descrição resumida: Este foi um projeto pessoal em que eu realizei uma análise completa de risco de crédito.
+
+Objetivo principal: Construir modelos capazes de prever o risco de crédito de novos clientes.
+
+Bibliotecas utilizadas: Numpy, Pandas, Pyplot, Seaborn, Sklearn.
+
+Obs: Na etapa de modelagem testei 4 algoritmos de Machine Learning e selecionei o melhor com base na acurácia e ROC-AUC.
+
 ## Certificação - Data Wrangling
 
 Descrição resumida: Análise do dataset Wine Reviews para a obtenção do certificado em Data Wrangling & Data Cleaning da DNC.Group
