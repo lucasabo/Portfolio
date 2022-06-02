@@ -1,7 +1,7 @@
 # Projetos:
 
 ## Modelagem de risco de crédito - BayerBank
-Descrição resumida: Este foi um projeto pessoal em que eu realizei uma análise completa de risco de crédito.
+Descrição resumida: Este foi um projeto pessoal em que eu me desafiei a realizar uma análise completa de risco de crédito.
 
 Objetivo principal: Construir modelos capazes de prever o risco de crédito de novos clientes.
 
