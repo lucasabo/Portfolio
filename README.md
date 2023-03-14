@@ -1,6 +1,6 @@
 # Projetos:
 
-## Modelagem de risco de crédito - BayerBank
+## [Modelagem de risco de crédito - BayerBank](https://github.com/lucasabo/Portfolio/blob/main/Credit_Risk_BayerBank.ipynb)
 Descrição resumida: Este foi um projeto pessoal em que eu me desafiei a realizar uma análise completa de risco de crédito.
 
 Objetivo principal: Construir modelos capazes de prever o risco de crédito de novos clientes.
@@ -11,9 +11,9 @@ Obs: Na etapa de modelagem testei 4 algoritmos de Machine Learning e selecionei 
 
 ## Certificação - Data Wrangling
 
-Descrição resumida: Análise do dataset Wine Reviews para a obtenção do certificado em Data Wrangling & Data Cleaning da DNC.Group
+Análise do dataset Wine Reviews para a obtenção do certificado em Data Wrangling & Data Cleaning da DNC.Group
 
-Bibliotecas utilizadas: Numpy, Pandas, Pyplot, Seaborn, Sklearn, Nltk.
+[Link](https://github.com/lucasabo/Portfolio/blob/main/Certifica%C3%A7%C3%A3o%20-%20Data%20Wrangling.ipynb)
 
 ## EDA - Walmart
 
