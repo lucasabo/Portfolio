@@ -5,7 +5,7 @@ Repositório com cases envolvendo Ciência de Dados e Machine Learning. Foram de
 * Lucas Alexandre - [Linkedin](https://www.linkedin.com/in/lucasabo/)
 
 ## Modelagem de risco de crédito - BayerBank
-Projeto pessoal onde realizei uma análise completa de risco de crédito. O modelo final teve avaliação similar às melhores soluções disponíveis no [Kaggle](https://www.kaggle.com/datasets/uciml/german-credit) para este dataset. 
+Descrição resumida: Este foi um projeto pessoal em que eu me desafiei a realizar uma análise completa de risco de crédito.
 
 [Link](https://github.com/lucasabo/Portfolio/blob/main/Credit_Risk_BayerBank.ipynb)
 
@@ -17,10 +17,9 @@ Desafio técnico de ciência de dados envolvendo detecção de fraudes. O projet
 ## Manuntenção preditiva - Suzano
 Desafio técnico de ciência de dados visando a predição de vida útil restante de equipamentos. Fiz uma análise exploratória robusta e gerei um modelo capaz de prever o tempo de vida útil remanescente de máquinas industriais.
 
-[Link](https://github.com/lucasabo/Portfolio/blob/main/Manuntenção_Preditiva_Suzano.ipynb)
+Descrição resumida: Análise do dataset Wine Reviews para a obtenção do certificado em Data Wrangling & Data Cleaning da DNC.Group
 
-## Análise e visualização de dados - Looqbox
-Desafio técnico de análise de dados, envolvendo: a criação de consultas em SQL; a criação de funções em python para consultas dinâmicas; e a geração de diferentes visualizações e análises.
+Bibliotecas utilizadas: Numpy, Pandas, Pyplot, Seaborn, Sklearn, Nltk.
 
 [Link](https://github.com/lucasabo/Portfolio/blob/main/EDA_Looqbox.ipynb)
 
