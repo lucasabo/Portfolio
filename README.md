@@ -1,4 +1,4 @@
-# Projetos, cases e desafios técnicos:
+# Projetos, cases e desafios técnicos
 Repositório com cases envolvendo Ciência de Dados e Machine Learning. Foram desenvolvidos por mim no contexto de projetos pessoais, desafios técnicos de vagas aplicadas ou práticas de formações em dados.
 
 ### Autor
