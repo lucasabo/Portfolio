@@ -17,10 +17,6 @@ Desafio técnico de ciência de dados envolvendo detecção de fraudes. O projet
 ## Manuntenção preditiva - Suzano
 Desafio técnico de ciência de dados visando a predição de vida útil restante de equipamentos. Fiz uma análise exploratória robusta e gerei um modelo capaz de prever o tempo de vida útil remanescente de máquinas industriais.
 
-Descrição resumida: Análise do dataset Wine Reviews para a obtenção do certificado em Data Wrangling & Data Cleaning da DNC.Group
-
-Bibliotecas utilizadas: Numpy, Pandas, Pyplot, Seaborn, Sklearn, Nltk.
-
 [Link](https://github.com/lucasabo/Portfolio/blob/main/EDA_Looqbox.ipynb)
 
 ## Extração de dados de sites
