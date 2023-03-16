@@ -1,8 +1,7 @@
 # Projetos, cases e desafios técnicos
 Repositório com cases envolvendo Ciência de Dados e Machine Learning. Foram desenvolvidos por mim no contexto de projetos pessoais, desafios técnicos de vagas aplicadas ou práticas de formações em dados.
 
-### Autor
-* Lucas Alexandre - [Linkedin](https://www.linkedin.com/in/lucasabo/)
+* Autor: Lucas Alexandre - [Linkedin](https://www.linkedin.com/in/lucasabo/)
 
 ## Modelagem de risco de crédito - BayerBank
 Projeto pessoal em que realizei uma análise completa de risco de crédito. O modelo final teve resultado comparável a outras soluções do [Kaggle](https://www.kaggle.com/datasets/uciml/german-credit) para o mesmo dataset.
