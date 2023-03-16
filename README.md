@@ -20,6 +20,7 @@ Desafio técnico de ciência de dados visando a predição de vida útil restant
 
 ## Análise e visualização de dados - Looqbox
 Desafio técnico de análise de dados. Este case contempla a criação de consultas em SQL de tabelas em um banco, a criação de uma função em python capaz de realizar consultas dinâmicas e a análise e visualização de dados.
+
 [Link](https://github.com/lucasabo/Portfolio/blob/main/EDA_Looqbox.ipynb)
 
 ## Extração de dados de sites
