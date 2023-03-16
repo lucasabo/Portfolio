@@ -13,7 +13,7 @@ Desafio técnico de ciência de dados envolvendo detecção de fraudes. O projet
 
 [Link](https://github.com/lucasabo/Portfolio/blob/main/Detecção_de_Fraudes_Gerencianet.ipynb)
 
-## Manuntenção preditiva - Suzano
+## Manutenção preditiva - Suzano
 Desafio técnico de ciência de dados visando a predição de vida útil restante de equipamentos. Fiz uma análise exploratória robusta e gerei um modelo capaz de prever o tempo de vida útil remanescente de máquinas industriais.
 
 [Link](https://github.com/lucasabo/Portfolio/blob/main/Manuntenção_Preditiva_Suzano.ipynb)
